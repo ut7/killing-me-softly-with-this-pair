@@ -7,13 +7,14 @@ Emmanuel Gaillot (emmanuel@ut7.fr)
 
 
 
-Ce script est distribué sous la licence 
-Creative Commons, Attribution - 
-Pas d'utilisation commerciale - 
-Partage dans les mêmes conditions, v3.0
+This script is distributed under the
+Creative Commons, Attribution -
+Noncommercial -
+ShareAlike
+license, v3.0
 
-Pour le texte complet de la licence, cf.
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/
+For the full text of the license, see
+http://creativecommons.org/licenses/by-nc-sa/3.0/fr/deed.en
 
 ----
   
