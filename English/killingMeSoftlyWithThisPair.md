@@ -41,23 +41,23 @@ Il nous importait de rétablir un peu de justice et de partager avec vous, cher 
 
 Bien sûr, nous n'avons pas la prétention d'être les inventeurs des tactiques guerrières qui suivent, simplement les transmetteurs, de vous à nous, de techniques éprouvées, qui nous l'espèrons vous sortirons des sessions cauchemardesques de binômage. Mais trève de bavardages, jetons-nous bravement dans la bataille, et joignons l'exemple à la parole.
 
-_(EMMANUEL s'asseoit à côté de JONATHAN. Tandis que JONATHAN parle, EMMANUEL continue le code commencé.)_
+_(EMMANUEL sits down next to JONATHAN. While JONATHAN speaks, EMMANUEL continues the code where he left off.)_
 
 
-**JONATHAN**  
-On peut distinguer deux types de stratégies. Celles applicables quand vous avez le clavier, celles applicables quand vous ne l'avez pas. Quand vous êtes le co-pilote, en somme. Entraînez-vous à reconnaître ces situations, pour ne pas les confondre et appliquer des techniques qui pourraient, dans un contexte inapproprié, s'avérer désastreuses à votre égard.
+**JONATHAN**
+Two types of strategies can be distinguished. Those applicable when you have the keyboard, those applicable when you don't. When you are the navigator, in short. Practice recognizing these situations, in order not to mistake them for one another and apply techniques that could, in an inappropriate context, prove disastrous for you.
 
-Vous remarquerez rapidement que la position du pilote est, pour ce qui nous occupe, largement plus enviable. Si vous n'êtes pas le pilote, faites ce qu'il faut pour le devenir. Nous verrons les techniques du copilote dans un deuxième temps. Sachez pour l'instant que, en premier recours, vous pouvez facilement devenir pilote en utilisant la technique dite du lion majestueux, également connue sous le nom de  "l'arrachage du clavier".
+You will quickly note that the driver's position is, for our subject, vastly more enjoyable. If you are not the driver, do what you must to become it. We will study the navigator's techniques subsequently. For now, it is sufficient to know that, as a first resort, you can easily become the driver by using the majestic lion technique, also known as the "keyboard grab".
 
-_(JONATHAN arrache le clavier des mains d'EMMANUEL, majestueusement)._
+_(JONATHAN grabs the keyboard from EMMANUEL's hands, majestically)._
 
 **EMMANUEL**  
 Ouah l'autre.
 
-**JONATHAN**  
-_(Au public :)_ Premier réflexe : à chaque fois que vous prenez le clavier, commencez par marquer votre territoire en effaçant les dernières lignes tapés par votre futur ex-binôme.
+**JONATHAN**
+_(To the audience:)_ A first reflex: every time you take the keyboard, start off marking your territory, by erasing the last few lines entered by your future ex-pair.
 
-_(Il joint le geste à la parole, puis code.)_
+_(He suits the action to the word, then codes.)_
 
 **EMMANUEL**  
 Étudions maintenant une technique simple. Celle qui consiste à coder sans dire un mot, de préférence sur une barre rouge, pendant quelques minutes. Effet garanti.
@@ -68,80 +68,80 @@ _(EMMANUEL reprend le clavier. Long silence.)_
 _(JONATHAN reprend le clavier et code pendant ce qui suit.)_
 Mais. Si jamais votre binôme, en plus d'être perfide, est armé d'une patience exemplaire, n'hésitez pas à vous arrêter, l'air perplexe, et à réfléchir un temps. Et quand il prononcera la moindre parole, pour briser le silence et vous aider, coupez-le et dites "ah je sais".
 
-_(Long silence. EMMANUEL sur le point de prendre la parole.)_
+_(A long pause. EMMANUEL about to speak up.)_
 
-Ah je sais.
+Ah, I know.
 
-_(Puis code quelque chose furieusement. Plusieurs répétitions de la même scène. Retour à la barre verte.)_
+_(Then codes something furiously. Several repetitions of the same scene. Back to the green bar.)_
 
 **EMMANUEL**  
 D'une manière générale, la barre rouge est votre amie. Bien sûr, n'utilisez pas la technique grossière du débutant qui consiste à casser quelque chose exprès. Non, soyez plus subtil. Écrivez un gros test. _(JONATHAN écrit un gros test.)_ Remaniez sur la barre rouge. Et surtout, corrigez des parties du code qui n'ont rien à voir. Sur la barre rouge. Les fautes d'orthographe. Sur la barre rouge. Les accolades en fin de ligne. Sur la barre rouge.
 
 _(Exemple.)_
 
-**JONATHAN**  
-Lorsque l'autre reprendra la main et le clavier, _(EMMANUEL reprend le clavier)_ car cela arrivera nécessairement, ne luttez pas. Au contraire, utilisez ce nouveau contexte à votre avantage, alors que celui-ci aura l'impression de pouvoir contribuer et se méfiera moins. 
+**JONATHAN**
+When the other takes back the lead and the keyboard, _(EMMANUEL takes back the keyboard)_ for it will inevitably happen, do not fight. On the contrary, use this new context to your advantage, when they will be under the illusion of contributing and will therefore be less wary.
 
-Profitons de cette occasion pour examiner les stratégies du copilote.
+Let us use this opportunity to examine the navigator's strategies.
 
-Soupirez. Suggérez qu'il passe trop de temps à faire ce qu'il fait, quoiqu'il fasse. Avec un peu de patience, vous devriez arriver au point crucial où vous pouvez indiquer chaque raccourci clavier qu'il utilise ou non, au moment où il s'apprête à faire telle ou telle commande. S'il craque vous avez gagné. Démonstration.
+Sigh. Suggest that they are taking to much time to do what they are doing, whatever it is. With a little bit of patience, you should reach that crucial point where you will be able to point out every keyboard shortcut they are using or not, right when they are about to execute this or that command. If they yield, you win. Demonstration.
 
-_(Démonstration. EMMANUEL ne craque pas.)_
+_(Demonstration. EMMANUEL does not yield.)_
 
-**JONATHAN** _(poursuivant)_  
-S'il ne craque pas, c'est probablement le moment où vous voudrez commencer à, toujours subtilement, glisser quelques erreurs dans votre co-pilotage.
+**JONATHAN** _(carrying on)_
+If they do not yield, now would probably be a good time to start, always so subtly, slipping a few errors here and there in your navigating.
 
-_(Démonstration. Puis à EMMANUEL :)_
+_(Demonstration. Then, to EMMANUEL:)_
 
-**JONATHAN**  
-Putain t'es vraiment trop lent.
+**JONATHAN**
+Fuck, you're seriously too slow.
 
-_(JONATHAN reprend le clavier.)_
+_(JONATHAN takes back the keyboard.)_
 
 **EMMANUEL**  
 Ou alors, une alternative très efficace à "je te dis quoi taper" : "je dis ce que tu viens de taper".
 
-_(Démonstration.)_
+_(Demonstration.)_
 
 **EMMANUEL** _(poursuivant)_  
 Une autre technique redoutable consiste à signaler toutes les fautes de frappe, au moment où celles-ci sont faites. Assurément, votre binôme perdra le fil de ce qu'il est en train de taper, et vous pourrez revenir alors à la stratégie du soupir.
 
-_(Démonstration)_
+_(Demonstration)_
 
 **EMMANUEL** _(poursuivant)_  
 Probablement qu'il sera alors temps de lui arracher – majestueusement – le clavier des mains. Vous aurez repris l'initiative, et vous pourrez recommencer à coder en silence, sur la barre rouge. N'oubliez pas les bases : marquer son territoire, effacer le code de l'autre.
 
 _(EMMANUEL prend le clavier.)_
 
-**JONATHAN**  
-À ce stade, vous devriez avoir éliminé tous les empêcheurs de coder en paix, les coincés du test, les niaiseux du post-it, les schtroumpfs agiles, et tous les abrutis un tant soit peu normaux. 
-Mais. Il arrivera parfois que votre binôme soit suffisamment retors pour résister, surtout s'il a reçu une formation certifiante de Scrum Master, ou s'il a fait des stages chez Gerald Weinberg. Les signes ne trompent pas : s'il veut provoquer la discussion et vous affronter sur le terrain de la parole, alerte maximum. Abordez avec la plus grande méfiance les moments où il vous suggèrera une pause pour discuter design dans une salle de réunion, ou pour faire une revue de code. Ne vous laissez pas faire. 
+**JONATHAN**
+At this point, you should have gotten rid of all the coding killjoys, the test-inhibited, the sticky morons, the agile smurfs, and all those roughly normal idiots.
+But. There will come times when your pair is devious enough to resist, particularly if they took a certifying Scrum Master course, or if they had training with Gerald Weinberg. The signs are unmistakable: if they want to bring about discussion and confront you on the field of words, maximum alert. Be on the lookout, with extreme suspicion, for moments when they will suggest a pause to discuss the design in a meeting room, or a code review. Do not let yourself be pushed around.
 
 **EMMANUEL**  
 Dis, Jonathan, on ne pourrait pas faire une pause, là ?
 
-**JONATHAN**  
-Calmement, indiquez votre surprise et votre indignation. 
-_(À EMMANUEL :)_ Le projet est déjà en retard, inutile de le rendre encore plus en retard. 
-_(Au public :)_ Ou alors, négociez. 
-_(À EMMANUEL :)_ Ok pour une pause, mais tu me feras pas chier derrière avec deux jours de revue de code sous prétexte que j'ai codé la nuit pour rattraper le temps perdu. 
-_(Au public :)_ Les termes "rattraper", "temps" et "perdu" sont vos alliés. Dès que vous êtes hors de la barre rouge, ils vous aideront à y retourner en moins de deux.
+**JONATHAN**
+Calmly, express your surprise and indignation.
+_(To EMMANUEL:)_ The project is late already, no need to make it even more late.
+_(To the audience:)_ Alternately, negotiate.
+_(To EMMANUEL :)_ Ok for a pause, but you won't be hassling me afterwards with two days of code review just because I coded late at night to make up for lost time.
+_(To the audience:)_ The terms "making up", "time" and "lost" are your allies. As soon as your are off the red bar, they will help you get back there in no time.
 
 _(EMMANUEL ferme l'ordinateur.)_
 
 **EMMANUEL**  
 Obcurité, confusion, malentendus - tels seront vos atouts, sachez les exploiter. Quoiqu'il en soit, faites en sorte que vos sessions de binômage soient aussi improbables que possible, que les buts recherchés soient flous et variables.
 
-**JONATHAN**  
-Plaignez-vous avant que votre partenaire ait fauté. Répertoriez ses faiblesses, patentes et latentes. Notez, notez, notez. Pas de quartier. Ne jamais oublier, ne jamais pardonner.
+**JONATHAN**
+Complain before your partner has failed. Document their weaknesses, patent and latent. Record, record, record. Have no mercy. Never forgive, never forget.
 
 **EMMANUEL**  
 Ne vous justifiez jamais. Tirez le premier. Accusez l'autre de saboter le binôme.
 
 _(De plus en plus intense.)_
 
-**JONATHAN**  
-Surprenez-le. Jetez des cris pour feindre la douleur. Mangez des chips. Coupez-vous les ongles.
+**JONATHAN**
+Suprise them. Throw cries of pain. Eat crisps. Trim your nails.
 
 **EMMANUEL**  
 Au dessus du clavier.
@@ -154,34 +154,34 @@ _(Une pause inconfortable.)_
 **EMMANUEL**  
 Bon on s'y remet ?
 
-**JONATHAN**  
-À quoi ?
+**JONATHAN**
+Back to what ?
 
 **EMMANUEL**
 Ben, à binômer, là, maintenant.
 
-**JONATHAN**  
-Non mais il n'y a plus le temps, là.
+**JONATHAN**
+No way, there's no time left.
 
 **EMMANUEL**
 Ah bon ?
 
-**JONATHAN**  
-Ben oui y a plus le temps.
+**JONATHAN**
+Nope, no time at all.
 
 **EMMANUEL**
 Non mais –
 
-**JONATHAN**  
-Non. C'est fini. _(Au public :)_ Alors voilà c'est la fin de cette session d'introduction. Merci pour votre attention. Merci d'être resté, enfin ceux qui sont restés… N'hésitez pas à nous contacter si vous avez des questions. Alors on propose aussi des formations avancées sur le sujet, n'est-ce pas, avec maniement d'accessoires. C'est sur deux jours, c'est remboursé par le FAFIEC, alors c'est un jour sur comment tirer parti du téléphone portable pendant les sessions de binômage, et puis un deuxième jour sur l'utilisation du matériel de bureau et des plantes vertes.
+**JONATHAN**
+No. We're done. _(To the audience:)_ So that's it for this intro session. Thank you for your attention. Thank you for staying, I mean those who stayed… Don't hesitate to contact us if you have questions. So we also offer advanced training on the subject, you see, including accessory handling. A two days course, you can probably get your employer to subsidize it, so we have one day on the use of a mobile phone during pairing session, and then another day on the use of office supplies and potted plants.
 
-Voilà. 
+That's it.
 
 **EMMANUEL**  
 Merci. 
 
-**JONATHAN**  
-Au revoir.
+**JONATHAN**
+Good bye.
 
 **EMMANUEL**   
 À bientôt.
