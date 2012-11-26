@@ -36,7 +36,7 @@ Killing Me Softly With This Pair
 _(A table. Behind the table, a huge portrait of "the coach". The one who is never seen, but whose presence weighs, as the statue of the Commendatore. On the table, a computer, a video projector. The computer is plugged into the video projector, the audience can therefore see what JONATHAN and EMMANUEL are typing. JONATHAN is writing a program. Enters EMMANUEL. JONATHAN keeps on writing during the introductory text.)_
 
 **EMMANUEL**
-Bonjour à vous, et merci d'être venu aussi nombreux. Nous allons aujourd'hui parler d'un sujet qui nous concerne tous, et je pèse mes mots. Un sujet qui malheureusement reste trop souvent tabou. Combien d'équipes, en effet, ont voulu scrupuleusement honorer Saint Beck et appliquer à la lettre Sa parole : "All production code is written with two people looking at one machine, with one keyboard and one mouse... If two people pair in the morning, in the afternoon they might easily be paired with other folks." Ou dit autrement : "en binôme tu coderas, et tourneront les binômes avant que l'ennui ne s'installe". Et il ajoute, le filou : "More often, anyone on the team will do as a partner." La plupart du temps, n'importe qui dans l'équipe fera l'affaire. La plupart du temps. Car combien de codeurs, nous compris, et vous aussi, oh pas de fausse politesse entre nous, combien de codeurs - et de codeuses - se sont retrouvés dans cette situation impossible où il leur a fallu se farcir ce qu'on appellera poliment "l'autre". Cet autre infernal, qui ne comprend rien à comment l'on fonctionne, ou pire encore, qui comprend tout quand c'est nous qui ne comprenons plus rien, avec son agaçante impatience et sa légère condescendance, celle qui nous empêche de dormir la nuit, celle qui nous fait regretter de ne pas être devenu architecte, certificateur, ou mieux encore, maître d'ouvrage.
+Good day to you, and thank you for coming so numerous. We shall today talk about a topic that concerns us all, and I am weighing my words. A topic that unfortunately too often remains taboo. How many teams, indeed, have wanted to honour scrupulously Saint Beck et apply His words to the letter: "All production code is written with two people looking at one machine, with one keyboard and one mouse... If two people pair in the morning, in the afternoon they might easily be paired with other folks." And the rascal adds: "More often, anyone on the team will do as a partner." More often, indeed. For how many coders have found themselves in that impossible situation where they had to put up with what we will politely call "the other". That infernal other, who does not understand a bit of how one operates, or worse, who understands everything when one does not understand anything anymore, with their irritating impatience and their slight condescension, that which keeps one awake at night, which makes one feel sorry not to have become an architect, a certifier, or better yet, product owner.
 
 Il nous importait de rétablir un peu de justice et de partager avec vous, cher public, l'espoir d'un monde meilleur, dans lequel nous n'aurions pas à binômer avec les pénibles de tout crin - sans pour autant que ça se voie. Continuer à programmer avec passion, tout en indiquant subtilement au binôme honni combien sa présence nous pèse, lui indiquer l'air de rien la porte de sortie tout en restant en dessous du radar du Scrum Master.
 
@@ -66,7 +66,7 @@ _(He suits the action to the word, then codes.)_
 _(EMMANUEL reprend le clavier. Long silence.)_
 
 **EMMANUEL**
-_(JONATHAN reprend le clavier et code pendant ce qui suit.)_
+_(JONATHAN takes the keyboard back and codes during the following.)_
 Mais. Si jamais votre binôme, en plus d'être perfide, est armé d'une patience exemplaire, n'hésitez pas à vous arrêter, l'air perplexe, et à réfléchir un temps. Et quand il prononcera la moindre parole, pour briser le silence et vous aider, coupez-le et dites "ah je sais".
 
 _(A long pause. EMMANUEL about to speak up.)_
@@ -76,9 +76,9 @@ Ah, I know.
 _(Then codes something furiously. Several repetitions of the same scene. Back to the green bar.)_
 
 **EMMANUEL**
-D'une manière générale, la barre rouge est votre amie. Bien sûr, n'utilisez pas la technique grossière du débutant qui consiste à casser quelque chose exprès. Non, soyez plus subtil. Écrivez un gros test. _(JONATHAN écrit un gros test.)_ Remaniez sur la barre rouge. Et surtout, corrigez des parties du code qui n'ont rien à voir. Sur la barre rouge. Les fautes d'orthographe. Sur la barre rouge. Les accolades en fin de ligne. Sur la barre rouge.
+D'une manière générale, la barre rouge est votre amie. Bien sûr, n'utilisez pas la technique grossière du débutant qui consiste à casser quelque chose exprès. Non, soyez plus subtil. Écrivez un gros test. _(JONATHAN writes a large test.)_ Remaniez sur la barre rouge. Et surtout, corrigez des parties du code qui n'ont rien à voir. Sur la barre rouge. Les fautes d'orthographe. Sur la barre rouge. Les accolades en fin de ligne. Sur la barre rouge.
 
-_(Exemple.)_
+_(Example.)_
 
 **JONATHAN**
 When the other takes back the lead and the keyboard, _(EMMANUEL takes back the keyboard)_ for it will inevitably happen, do not fight. On the contrary, use this new context to your advantage, when they will be under the illusion of contributing and will therefore be less wary.
@@ -150,7 +150,7 @@ Au dessus du clavier.
 **JONATHAN / EMMANUEL** _(un cri à l'unisson, cathartique)_
 AAAAAH !
 
-_(Une pause inconfortable.)_
+_(An awkward pause.)_
 
 **EMMANUEL**
 Bon on s'y remet ?
