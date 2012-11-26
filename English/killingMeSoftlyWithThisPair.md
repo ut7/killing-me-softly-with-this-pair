@@ -1,5 +1,5 @@
 Killing Me Softly With This Pair
-(Farce courte, démonstrative et amorale)
+(A short, demonstrative and amoral farce)
 
 Copyright 2012
 Jonathan Perret (jonathan@ut7.fr)
@@ -23,7 +23,7 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/fr/
   
   
 Killing Me Softly With This Pair
-(Farce courte, démonstrative et amorale)
+(A short, demonstrative and amoral farce)
   
   
   
