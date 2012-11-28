@@ -14,7 +14,7 @@ ShareAlike
 license, v3.0
 
 For the full text of the license, see
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr/deed.en
+http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 ----
 
@@ -33,14 +33,14 @@ Killing Me Softly With This Pair
 
 
 
-_(A table. Behind the table, a huge portrait of "the coach". The one who is never seen, but whose presence weighs, as the statue of the Commendatore. On the table, a computer, a video projector. The computer is plugged into the video projector, the audience can therefore see what JONATHAN and EMMANUEL are typing. JONATHAN is writing a program. Enters EMMANUEL. JONATHAN keeps on writing during the introductory text.)_
+_(A table. Behind the table, a huge portrait of "the Coach". The one who is never seen, but whose presence weighs, as the statue of the Commendatore. On the table, a computer, a video projector. The computer is plugged into the video projector, the audience can therefore see what JONATHAN and EMMANUEL are typing. JONATHAN is writing a program. Enters EMMANUEL. JONATHAN keeps on writing during the introductory text.)_
 
 **EMMANUEL**
-Good day to you, and thank you for coming so numerous. We shall today talk about a topic that concerns us all, and I am weighing my words. A topic that unfortunately too often remains taboo. How many teams, indeed, have wanted to honour scrupulously Saint Beck et apply His words to the letter: "All production code is written with two people looking at one machine, with one keyboard and one mouse... If two people pair in the morning, in the afternoon they might easily be paired with other folks." And the rascal adds: "More often, anyone on the team will do as a partner." More often, indeed. For how many coders have found themselves in that impossible situation where they had to put up with what we will politely call "the other". That infernal other, who does not understand a bit of how one operates, or worse, who understands everything when one does not understand anything anymore, with their irritating impatience and their slight condescension, that which keeps one awake at night, which makes one feel sorry not to have become an architect, a certifier, or better yet, product owner.
+Good day to you, and thank you for coming so numerous. Today we shall talk about a topic that concerns us all, and I am weighing my words. A topic that, unfortunately, too often remains taboo. How many teams, indeed, have wanted to honour scrupulously Saint Beck et apply His words to the letter: "All production code is written with two people looking at one machine, with one keyboard and one mouse... If two people pair in the morning, in the afternoon they might easily be paired with other folks." And the rascal adds: "More often, anyone on the team will do as a partner." More often, indeed. For how many coders have found themselves in that impossible situation where they had to put up with what we will politely call "the Other". That infernal other, who does not understand a bit of how one operates, or worse, who understands everything when one does not understand anything anymore, with their irritating impatience and their slight condescension, which keeps one awake at night, which makes one feel sorry not to have become an architect, a certifier, or better yet, a Product Owner.
 
-Il nous importait de rétablir un peu de justice et de partager avec vous, cher public, l'espoir d'un monde meilleur, dans lequel nous n'aurions pas à binômer avec les pénibles de tout crin - sans pour autant que ça se voie. Continuer à programmer avec passion, tout en indiquant subtilement au binôme honni combien sa présence nous pèse, lui indiquer l'air de rien la porte de sortie tout en restant en dessous du radar du Scrum Master.
+We wanted to balance the scales back and share with you, beloved audience, the hope of a better world, in which one wouldn't have to pair with the pains-in-the-butt of all trades – without getting noticed.  To keep on programming with passion, while subtly suggesting to the evil pair how painful they are; to show them in all innocence the way out, while remaining under the radar of the Scrum Master.
 
-Bien sûr, nous n'avons pas la prétention d'être les inventeurs des tactiques guerrières qui suivent, simplement les transmetteurs, de vous à nous, de techniques éprouvées, qui nous l'espèrons vous sortirons des sessions cauchemardesques de binômage. Mais trève de bavardages, jetons-nous bravement dans la bataille, et joignons l'exemple à la parole.
+Of course, we won't pretend to have invented the close-combat tactics that follow. We're merely transmitters, from us to you, of well-proven techniques, which we hope will get you out of nightmarish situations of pair-programming. So with no further delay, let's bravely throw ourselves in the fight, and suit the action to the word.
 
 _(EMMANUEL sits down next to JONATHAN. While JONATHAN speaks, EMMANUEL continues the code where he left off.)_
 
@@ -48,12 +48,12 @@ _(EMMANUEL sits down next to JONATHAN. While JONATHAN speaks, EMMANUEL continues
 **JONATHAN**
 Two types of strategies can be distinguished. Those applicable when you have the keyboard, those applicable when you don't. When you are the navigator, in short. Practice recognizing these situations, in order not to mistake them for one another and apply techniques that could, in an inappropriate context, prove disastrous for you.
 
-You will quickly note that the driver's position is, for our subject, vastly more enjoyable. If you are not the driver, do what you must to become it. We will study the navigator's techniques subsequently. For now, it is sufficient to know that, as a first resort, you can easily become the driver by using the majestic lion technique, also known as the "keyboard grab".
+You will quickly note that the driver's position is, for our subject, vastly more enjoyable. If you are not the driver, do what you must to become it. We will study the navigator's techniques subsequently. For now, it is sufficient to know that, as a first resort, you can easily become the driver by using the Majestic Lion technique, also known as the "Keyboard Grab".
 
 _(JONATHAN grabs the keyboard from EMMANUEL's hands, majestically)._
 
 **EMMANUEL**
-Ouah l'autre.
+… 'the fuck?!
 
 **JONATHAN**
 _(To the audience:)_ A first reflex: every time you take the keyboard, start off marking your territory, by erasing the last few lines entered by your future ex-pair.
@@ -61,13 +61,13 @@ _(To the audience:)_ A first reflex: every time you take the keyboard, start off
 _(He suits the action to the word, then codes.)_
 
 **EMMANUEL**
-Étudions maintenant une technique simple. Celle qui consiste à coder sans dire un mot, de préférence sur une barre rouge, pendant quelques minutes. Effet garanti.
+Let's study now a simple technique - which consists in coding without saying a word, most preferably on the red bar, for a couple of minutes.  Guaranteed effect.
 
-_(EMMANUEL reprend le clavier. Long silence.)_
+_(EMMANUEL takes the keyboard back and codes. Long silence.)_
 
 **EMMANUEL**
 _(JONATHAN takes the keyboard back and codes during the following.)_
-Mais. Si jamais votre binôme, en plus d'être perfide, est armé d'une patience exemplaire, n'hésitez pas à vous arrêter, l'air perplexe, et à réfléchir un temps. Et quand il prononcera la moindre parole, pour briser le silence et vous aider, coupez-le et dites "ah je sais".
+But.  If your pair is not only perfidious, but also armed with exemplary patience, don't hesitate to pause, confused, and to ponder for a while.  When your pair is about to speak up, in the foolish hope to break the excruciating silence and help you, cut him off and say "ah yes, I know."
 
 _(A long pause. EMMANUEL about to speak up.)_
 
@@ -76,7 +76,7 @@ Ah, I know.
 _(Then codes something furiously. Several repetitions of the same scene. Back to the green bar.)_
 
 **EMMANUEL**
-D'une manière générale, la barre rouge est votre amie. Bien sûr, n'utilisez pas la technique grossière du débutant qui consiste à casser quelque chose exprès. Non, soyez plus subtil. Écrivez un gros test. _(JONATHAN writes a large test.)_ Remaniez sur la barre rouge. Et surtout, corrigez des parties du code qui n'ont rien à voir. Sur la barre rouge. Les fautes d'orthographe. Sur la barre rouge. Les accolades en fin de ligne. Sur la barre rouge.
+Generally speaking, the red bar is your friend.  Of course, don't fall for the distasteful technique consisting in breaking something on purpose.  No.  Be more subtle.  Write a large test.  _(JONATHAN writes a large test.)_  Refactor on the red bar.  Specifically - fix parts of the code that have nothing to do with it.  On the red bar.  Mispellings.  On the red bar.  Curly brackets at end of line.  On the red bar.
 
 _(Example.)_
 
@@ -100,26 +100,26 @@ Fuck, you're seriously too slow.
 _(JONATHAN takes back the keyboard.)_
 
 **EMMANUEL**
-Ou alors, une alternative très efficace à "je te dis quoi taper" : "je dis ce que tu viens de taper".
+Or - here is a very efficient alternative to "let me tell you what to type": "let me tell you what you've just typed."
 
 _(Demonstration.)_
 
-**EMMANUEL** _(poursuivant)_
-Une autre technique redoutable consiste à signaler toutes les fautes de frappe, au moment où celles-ci sont faites. Assurément, votre binôme perdra le fil de ce qu'il est en train de taper, et vous pourrez revenir alors à la stratégie du soupir.
+**EMMANUEL** _(pursuing)_
+Another dreadful technique consists in signaling every typo, right when they're written.  For sure, your pair will lose the thread of what they're typing, which will indicate when to get back to the sighing strategy.
 
 _(Demonstration)_
 
-**EMMANUEL** _(poursuivant)_
-Probablement qu'il sera alors temps de lui arracher – majestueusement – le clavier des mains. Vous aurez repris l'initiative, et vous pourrez recommencer à coder en silence, sur la barre rouge. N'oubliez pas les bases : marquer son territoire, effacer le code de l'autre.
+**EMMANUEL** _(pursuing)_
+It will then probably be the time to grab back – majestically – the keyboard from their hands.  You'll have gained the initiative back, and you'll be able to code again in silence, on the red bar.  Don't forget the basics: mark your territory, erase what your pair has written.
 
-_(EMMANUEL prend le clavier.)_
+_(EMMANUEL takes back the keyboard.)_
 
 **JONATHAN**
 At this point, you should have gotten rid of all the coding killjoys, the test-inhibited, the sticky morons, the agile smurfs, and all those roughly normal idiots.
 But. There will come times when your pair is devious enough to resist, particularly if they took a certifying Scrum Master course, or if they had training with Gerald Weinberg. The signs are unmistakable: if they want to bring about discussion and confront you on the field of words, maximum alert. Be on the lookout, with extreme suspicion, for moments when they will suggest a pause to discuss the design in a meeting room, or a code review. Do not let yourself be pushed around.
 
 **EMMANUEL**
-Dis, Jonathan, on ne pourrait pas faire une pause, là ?
+So, Jonathan, how about we're taking a break, now?
 
 **JONATHAN**
 Calmly, express your surprise and indignation.
@@ -131,47 +131,47 @@ _(To the audience:)_ The terms "making up", "time" and "lost" are your allies. A
 _(EMMANUEL ferme l'ordinateur.)_
 
 **EMMANUEL**
-Obcurité, confusion, malentendus - tels seront vos atouts, sachez les exploiter. Quoiqu'il en soit, faites en sorte que vos sessions de binômage soient aussi improbables que possible, que les buts recherchés soient flous et variables.
+Obfuscation, confusion, misunderstandings - here are your trump cards.  Know when to take advantage of them.  Whatever happens, make sure your pair programming sessions are vague to the extreme, keep the goals hazy and inconsistent.
 
 **JONATHAN**
 Complain before your partner has failed. Document their weaknesses, patent and latent. Record, record, record. Have no mercy. Never forgive, never forget.
 
 **EMMANUEL**
-Ne vous justifiez jamais. Tirez le premier. Accusez l'autre de saboter le binôme.
+Never justify.  Shoot first.  Accuse the other to sabotage the pair programming session.
 
-_(De plus en plus intense.)_
+_(More and more intensely.)_
 
 **JONATHAN**
 Suprise them. Throw cries of pain. Eat crisps. Trim your nails.
 
 **EMMANUEL**
-Au dessus du clavier.
+Over the keyboard
 
-**JONATHAN / EMMANUEL** _(un cri à l'unisson, cathartique)_
+**JONATHAN / EMMANUEL** _(a joined, cathartic scream)_
 AAAAAH !
 
 _(An awkward pause.)_
 
 **EMMANUEL**
-Bon on s'y remet ?
+Allright, shall we get back to it?
 
 **JONATHAN**
 Back to what ?
 
 **EMMANUEL**
-Ben, à binômer, là, maintenant.
+Well, to the pair programming session, here, now.
 
 **JONATHAN**
 No way, there's no time left.
 
 **EMMANUEL**
-Ah bon ?
+Really?
 
 **JONATHAN**
 Nope, no time at all.
 
 **EMMANUEL**
-Non mais –
+Right but –
 
 **JONATHAN**
 No. We're done. _(To the audience:)_ So that's it for this intro session. Thank you for your attention. Thank you for staying, I mean those who stayed… Don't hesitate to contact us if you have questions. So we also offer advanced training on the subject, you see, including accessory handling. A two days course, you can probably get your employer to subsidize it, so we have one day on the use of a mobile phone during pairing session, and then another day on the use of office supplies and potted plants.
@@ -179,14 +179,14 @@ No. We're done. _(To the audience:)_ So that's it for this intro session. Thank 
 That's it.
 
 **EMMANUEL**
-Merci.
+Thanks.
 
 **JONATHAN**
 Good bye.
 
 **EMMANUEL**
-À bientôt.
+And good luck.
 
 
 
-_(Fin)_
+_(The End)_
