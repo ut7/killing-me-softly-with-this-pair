@@ -1,7 +1,7 @@
 Mon Binôme m'a tuer
 (Farce courte, démonstrative et amorale)
 
-Copyright 2012
+Copyright 2012-2013
 Jonathan Perret (jonathan@ut7.fr)
 Emmanuel Gaillot (emmanuel@ut7.fr)
 
@@ -62,17 +62,17 @@ _(Il joint le geste à la parole, puis code.)_
 **EMMANUEL**  
 Étudions maintenant une technique simple. Celle qui consiste à coder sans dire un mot, de préférence sur une barre rouge, pendant quelques minutes. Effet garanti.
 
-_(EMMANUEL reprend le clavier. Long silence.)_
+_(EMMANUEL reprend le clavier. Long silence. JONATHAN ne craque pas.)_
 
 **EMMANUEL**  
-_(JONATHAN reprend le clavier et code pendant ce qui suit.)_
-Mais. Si jamais votre binôme, en plus d'être perfide, est armé d'une patience exemplaire, n'hésitez pas à vous arrêter, l'air perplexe, et à réfléchir un temps. Et quand il prononcera la moindre parole, pour briser le silence et vous aider, coupez-le et dites "ah je sais".
+Mais. _(JONATHAN reprend le clavier et code pendant ce qui suit.)_ Si jamais votre binôme, en plus d'être perfide, est armé d'une patience exemplaire, n'hésitez pas à vous arrêter, l'air perplexe, et à réfléchir un temps. Et quand il prononcera la moindre parole, pour briser le silence et vous aider, coupez-le et dites "ah je sais".
 
 _(Long silence. EMMANUEL sur le point de prendre la parole.)_
 
+**JONATHAN**
 Ah je sais.
 
-_(Puis code quelque chose furieusement. Plusieurs répétitions de la même scène. Retour à la barre verte.)_
+_(Puis JONATHAN code quelque chose furieusement. Plusieurs répétitions de la même scène. Retour à la barre verte.)_
 
 **EMMANUEL**  
 D'une manière générale, la barre rouge est votre amie. Bien sûr, n'utilisez pas la technique grossière du débutant qui consiste à casser quelque chose exprès. Non, soyez plus subtil. Écrivez un gros test. _(JONATHAN écrit un gros test.)_ Remaniez sur la barre rouge. Et surtout, corrigez des parties du code qui n'ont rien à voir. Sur la barre rouge. Les fautes d'orthographe. Sur la barre rouge. Les accolades en fin de ligne. Sur la barre rouge.
@@ -125,11 +125,14 @@ Calmement, indiquez votre surprise et votre indignation.
 _(À EMMANUEL :)_ Le projet est déjà en retard, inutile de le rendre encore plus en retard. 
 _(Au public :)_ Ou alors, négociez. 
 _(À EMMANUEL :)_ Ok pour une pause, mais tu me feras pas chier derrière avec deux jours de revue de code sous prétexte que j'ai codé la nuit pour rattraper le temps perdu. 
-_(Au public :)_ Les termes "rattraper", "temps" et "perdu" sont vos alliés. Dès que vous êtes hors de la barre rouge, ils vous aideront à y retourner en moins de deux.
 
-_(EMMANUEL ferme l'ordinateur.)_
+_(Pendant la réplique d'EMMANUEL qui suit, JONATHAN écrit le code correct en une seule ligne.)_
 
 **EMMANUEL**  
+Les termes "rattraper", "temps" et "perdu" sont vos alliés. Dès que vous êtes hors de la barre rouge, ils vous aideront à y retourner en moins de deux.
+
+_(Il ferme l'ordinateur.)_
+
 Obcurité, confusion, malentendus - tels seront vos atouts, sachez les exploiter. Quoiqu'il en soit, faites en sorte que vos sessions de binômage soient aussi improbables que possible, que les buts recherchés soient flous et variables.
 
 **JONATHAN**  
