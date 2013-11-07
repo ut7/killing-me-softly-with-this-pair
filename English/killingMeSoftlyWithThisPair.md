@@ -77,11 +77,13 @@ Ah, I know.
 _(Then JONATHAN codes something furiously. Several repetitions of the same scene. Back to the green bar.)_
 
 **EMMANUEL**  
-Generally speaking, the red bar is your friend.  Of course, don't fall for the distasteful technique consisting in breaking something on purpose.  No.  Be more subtle.  Write a large test.  _(JONATHAN writes a large test.)_  Refactor on the red bar.  Specifically - fix parts of the code that have nothing to do with it.  On the red bar.  Mispellings.  On the red bar.  Curly brackets at end of line.  On the red bar.
-
-_(Example.)_
+Generally speaking, the red bar is your friend.  Of course, don't fall for the distasteful technique consisting in breaking something on purpose.  No.  Be more subtle.  Write a large test.  _(JONATHAN writes a large test.)_  Refactor on the red bar.  _(During the following, JONATHAN illustrates what EMMANUEL says.)_  Specifically - fix parts of the code that have nothing to do with it.  On the red bar.  Aesthetic considerations.  On the red bar.  Misspellings.  On the red bar.  Curly brackets at end of line.  On the red bar.
 
 **JONATHAN**  
+Let me add a couple first.
+
+_(He does so.  Then:)_
+
 When the other takes back the lead and the keyboard, _(EMMANUEL takes back the keyboard)_ for it will inevitably happen, do not fight. On the contrary, use this new context to your advantage, when they will be under the illusion of contributing, and therefore, less wary.
 
 Let us use this opportunity to examine the navigator's strategies.

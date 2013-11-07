@@ -76,11 +76,13 @@ Ah je sais.
 _(Puis JONATHAN code quelque chose furieusement. Plusieurs répétitions de la même scène. Retour à la barre verte.)_
 
 **EMMANUEL**  
-D'une manière générale, la barre rouge est votre amie. Bien sûr, n'utilisez pas la technique grossière du débutant qui consiste à casser quelque chose exprès. Non, soyez plus subtil. Écrivez un gros test. _(JONATHAN écrit un gros test.)_ Remaniez sur la barre rouge. Et surtout, corrigez des parties du code qui n'ont rien à voir. Sur la barre rouge. Les fautes d'orthographe. Sur la barre rouge. Les accolades en fin de ligne. Sur la barre rouge.
-
-_(Exemple.)_
+D'une manière générale, la barre rouge est votre amie. Bien sûr, n'utilisez pas la technique grossière du débutant qui consiste à casser quelque chose exprès. Non, soyez plus subtil. Écrivez un gros test. _(JONATHAN écrit un gros test.)_ Remaniez sur la barre rouge. _(Pendant ce qui suit, JONATHAN illustre par l'exemple ce qu'EMMANUEL explique.)_ Et surtout, corrigez des parties du code qui n'ont rien à voir. Sur la barre rouge. Les considérations esthétiques. Sur la barre rouge. Les fautes d'orthographe. Sur la barre rouge. Les accolades en fin de ligne. Sur la barre rouge.
 
 **JONATHAN**  
+Attends que j'en rajoute quelques unes d'abord.
+
+_(Il le fait. Puis :)_
+
 Lorsque l'autre reprendra la main et le clavier, _(EMMANUEL reprend le clavier)_ car cela arrivera nécessairement, ne luttez pas. Au contraire, utilisez ce nouveau contexte à votre avantage, alors que celui-ci aura l'impression de pouvoir contribuer et se méfiera moins. 
 
 Profitons de cette occasion pour examiner les stratégies du copilote.
