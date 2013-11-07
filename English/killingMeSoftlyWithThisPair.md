@@ -46,6 +46,7 @@ _(EMMANUEL sits down next to JONATHAN. While JONATHAN speaks, EMMANUEL continues
 
 
 **JONATHAN**  
+_(If a second keyboard is used, now is a good time for JONATHAN to make it disappear.)_  
 Two types of strategies can be distinguished. Those applicable when you have the keyboard, those applicable when you don't. When you are the navigator, in short. Practice recognizing those situations, in order not to mistake them for one another and apply techniques that could, in an inappropriate context, prove disastrous to you.
 
 You will quickly note that the driver's position is, for our subject, vastly more enjoyable. If you are not the driver, do what you must to become it. We will study the navigator's techniques subsequently. For now, it is sufficient to know that, as a first resort, you can easily become the driver by using the Majestic Lion technique, also known as the "Keyboard Grab".

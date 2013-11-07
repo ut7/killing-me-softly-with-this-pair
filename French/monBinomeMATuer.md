@@ -45,6 +45,7 @@ _(EMMANUEL s'asseoit à côté de JONATHAN. Tandis que JONATHAN parle, EMMANUEL 
 
 
 **JONATHAN**  
+_(Si deux claviers sont utilisés, JONATHAN fera disparaître le clavier surnuméraire pendant cette réplique.)_  
 On peut distinguer deux types de stratégies. Celles applicables quand vous avez le clavier, celles applicables quand vous ne l'avez pas. Quand vous êtes le co-pilote, en somme. Entraînez-vous à reconnaître ces situations, pour ne pas les confondre et appliquer des techniques qui pourraient, dans un contexte inapproprié, s'avérer désastreuses à votre égard.
 
 Vous remarquerez rapidement que la position du pilote est, pour ce qui nous occupe, largement plus enviable. Si vous n'êtes pas le pilote, faites ce qu'il faut pour le devenir. Nous verrons les techniques du copilote dans un deuxième temps. Sachez pour l'instant que, en premier recours, vous pouvez facilement devenir pilote en utilisant la technique dite du lion majestueux, également connue sous le nom de  "l'arrachage du clavier".
