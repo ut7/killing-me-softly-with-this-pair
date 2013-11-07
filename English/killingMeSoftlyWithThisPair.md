@@ -180,7 +180,7 @@ Nope, no time at all.
 Right but –
 
 **JONATHAN**  
-No. We're done. _(To the audience:)_ So that's it for this intro session. Thank you for your attention. Thank you for staying, I mean those who stayed… Don't hesitate to contact us if you have questions. So we also offer advanced training on the subject, you see, including accessory handling. A two days course, you can probably get your employer to subsidize it, so we have one day on the use of a mobile phone during pairing sessions, and then another day on the use of office supplies and potted plants.
+No. We're done. _(To the audience:)_ So that's it for this intro session. Thank you for your attention. Thank you for staying, I mean those who stayed… Don't hesitate to contact us if you have questions. So we also offer advanced training on the subject, you see, including accessory handling. A two days course, you can probably get your employer to pay for it, so we have one day on the use of a mobile phone during pairing sessions, and then another day on the use of office supplies and potted plants.
 
 That's it.
 
