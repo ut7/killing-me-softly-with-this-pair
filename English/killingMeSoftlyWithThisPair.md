@@ -133,7 +133,7 @@ _(To EMMANUEL :)_ Ok for a pause, but you won't be hassling me afterwards with t
 _(During next EMMANUEL's lines, JONATHAN writes the correct code as a one-liner.)_
 
 **EMMANUEL**  
-The terms "making up", "time" and "lost" are your allies. As soon as your are off the red bar, they will help you get back there in no time.
+The terms "making up", "time" and "lost" are your allies. As soon as you are off the red bar, they will help you get back there in no time.
 
 _(He closes the laptop.)_
 
