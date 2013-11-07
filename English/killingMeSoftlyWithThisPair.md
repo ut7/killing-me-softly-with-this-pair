@@ -67,7 +67,7 @@ Let's study now a simple technique - which consists in coding without saying a w
 _(EMMANUEL takes the keyboard back and codes. Long silence. JONATHAN keeps his cool.)_
 
 **EMMANUEL**  
-But.  _(JONATHAN takes the keyboard back and codes during the following.)_  If your pair is not only perfidious, but also armed with exemplary patience, do not hesitate to pause, confused, and to ponder for a while.  When your pair is about to speak up, in the foolish hope on breaking the excruciating silence and help you, cut them off and say "ah yes, I know."
+But.  _(JONATHAN takes the keyboard back and codes during the following.)_  If your pair is not only perfidious, but also armed with exemplary patience, do not hesitate to pause, confused, and to ponder for a while.  When your pair is about to speak up, in the foolish hope of breaking the excruciating silence and help you, cut them off and say "ah yes, I know."
 
 _(A long pause. EMMANUEL about to speak up.)_
 
