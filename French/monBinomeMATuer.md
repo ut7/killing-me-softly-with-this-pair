@@ -34,6 +34,8 @@ Mon Binôme m'a tuer
   
 _(Une table. Derrière la table, un portrait immense du "coach". Celui qu'on ne voit pas, mais dont la présence pèse, telle la statue du commandeur. Sur la table, un ordinateur, un vidéo-projecteur. L'ordinateur est relié au vidéo-projecteur, le public peut ainsi voir ce que les JONATHAN et EMMANUEL tapent au clavier. JONATHAN écrit un programme. EMMANUEL entre sur scène. JONATHAN continue d'écrire pendant le texte d'introduction.)_
 
+`(Au cas où le binôme joue le kata des anatrammes, les indications écrites dans le présent style suggèrent des étapes à atteindre à des moments donnés.)`
+
 **EMMANUEL**  
 Bonjour à vous, et merci d'être venu aussi nombreux. Nous allons aujourd'hui parler d'un sujet qui nous concerne tous, et je pèse mes mots. Un sujet qui malheureusement reste trop souvent tabou. Combien d'équipes, en effet, ont voulu scrupuleusement honorer Saint Beck et appliquer à la lettre Sa parole : "All production code is written with two people looking at one machine, with one keyboard and one mouse... If two people pair in the morning, in the afternoon they might easily be paired with other folks." Ou dit autrement : "en binôme tu coderas, et tourneront les binômes avant que l'ennui ne s'installe". Et il ajoute, le filou : "More often, anyone on the team will do as a partner." La plupart du temps, n'importe qui dans l'équipe fera l'affaire. La plupart du temps. Car combien de codeurs, nous compris, et vous aussi, oh pas de fausse politesse entre nous, combien de codeurs - et de codeuses - se sont retrouvés dans cette situation impossible où il leur a fallu se farcir ce qu'on appellera poliment "l'autre". Cet autre infernal, qui ne comprend rien à comment l'on fonctionne, ou pire encore, qui comprend tout quand c'est nous qui ne comprenons plus rien, avec son agaçante impatience et sa légère condescendance, celle qui nous empêche de dormir la nuit, celle qui nous fait regretter de ne pas être devenu architecte, certificateur, ou mieux encore, maître d'ouvrage.
 
@@ -75,8 +77,10 @@ Ah je sais.
 
 _(Puis JONATHAN code quelque chose furieusement. Plusieurs répétitions de la même scène. Retour à la barre verte.)_
 
+`"12" -> ["12", "21"]`
+
 **EMMANUEL**  
-D'une manière générale, la barre rouge est votre amie. Bien sûr, n'utilisez pas la technique grossière du débutant qui consiste à casser quelque chose exprès. Non, soyez plus subtil. Écrivez un gros test. _(JONATHAN écrit un gros test.)_ Remaniez sur la barre rouge. _(Pendant ce qui suit, JONATHAN illustre par l'exemple ce qu'EMMANUEL explique.)_ Et surtout, corrigez des parties du code qui n'ont rien à voir. Sur la barre rouge. Les considérations esthétiques. Sur la barre rouge. Les fautes d'orthographe. Sur la barre rouge. Les accolades en fin de ligne. Sur la barre rouge.
+D'une manière générale, la barre rouge est votre amie. Bien sûr, n'utilisez pas la technique grossière du débutant qui consiste à casser quelque chose exprès. Non, soyez plus subtil. Écrivez un gros test. _(JONATHAN écrit un gros test.)_ `(Possiblement : "123" -> ["123", "132", "213", "231", "312", "321"])` Remaniez sur la barre rouge. _(Pendant ce qui suit, JONATHAN illustre par l'exemple ce qu'EMMANUEL explique : possiblement dés/aligner les textes, renommer, changer la fonte)_ Et surtout, corrigez des parties du code qui n'ont rien à voir. Sur la barre rouge. Les considérations esthétiques. Sur la barre rouge. Les fautes d'orthographe. Sur la barre rouge. Les accolades en fin de ligne. Sur la barre rouge.
 
 **JONATHAN**  
 Attends que j'en rajoute quelques unes d'abord.
@@ -94,17 +98,19 @@ _(Démonstration. EMMANUEL ne craque pas.)_
 **JONATHAN** _(poursuivant)_  
 S'il ne craque pas, c'est probablement le moment où vous voudrez commencer à, toujours subtilement, glisser quelques erreurs dans votre co-pilotage.
 
-_(Démonstration. Puis à EMMANUEL :)_
+_(Démonstration. Par exemple, avec vim : %s/r/я/g and %s/e/э/g … Puis, à EMMANUEL:)_
 
 **JONATHAN**  
 Putain t'es vraiment trop lent.
 
-_(JONATHAN reprend le clavier.)_
+_(JONATHAN reprend le clavier. Une possible commande pour revenir à l'état normal : ggVG!tr яэ re )_
 
 **EMMANUEL**  
 Ou alors, une alternative très efficace à "je te dis quoi taper" : "je dis ce que tu viens de taper".
 
 _(Démonstration.)_
+
+`("abcd" -> ["abcd, "abdc", "acbd", "acdb", etc.])`
 
 **EMMANUEL** _(poursuivant)_  
 Une autre technique redoutable consiste à signaler toutes les fautes de frappe, au moment où celles-ci sont faites. Assurément, votre binôme perdra le fil de ce qu'il est en train de taper, et vous pourrez revenir alors à la stratégie du soupir.
@@ -115,6 +121,8 @@ _(Démonstration)_
 Probablement qu'il sera alors temps de lui arracher – majestueusement – le clavier des mains. Vous aurez repris l'initiative, et vous pourrez recommencer à coder en silence, sur la barre rouge. N'oubliez pas les bases : marquer son territoire, effacer le code de l'autre.
 
 _(EMMANUEL prend le clavier.)_
+
+`(Voici un bon moment pour effacer le cas de test "abcd".)`
 
 **JONATHAN**  
 À ce stade, vous devriez avoir éliminé tous les empêcheurs de coder en paix, les coincés du test, les niaiseux du post-it, les schtroumpfs agiles, et tous les abrutis un tant soit peu normaux. 

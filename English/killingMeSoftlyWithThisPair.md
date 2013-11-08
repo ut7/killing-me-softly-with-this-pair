@@ -35,6 +35,8 @@ Killing Me Softly With This Pair
   
 _(A table. Behind the table, a huge portrait of "the Coach". The one who is never seen, but whose presence weighs, as the statue of the Commendatore. On the table, a computer, a video projector. The computer is plugged into the video projector, the audience can therefore see what JONATHAN and EMMANUEL are typing. JONATHAN is writing a program. Enters EMMANUEL. JONATHAN keeps on writing during the introductory text.)_
 
+`(In case the pair performs the anagrams kata, text written in this fashion indicates possible steps at given moments.)`
+
 **EMMANUEL**  
 Good day to you, and thank you for coming so numerous. Today we shall talk about a topic that concerns us all, and I am weighing my words. A topic that, unfortunately, too often remains taboo. How many teams, indeed, have wanted to honour scrupulously Saint Beck and apply His words to the letter: "All production code is written with two people looking at one machine, with one keyboard and one mouse... If two people pair in the morning, in the afternoon they might easily be paired with other folks." And the rascal adds: "More often, anyone on the team will do as a partner." More often, indeed. For how many coders have found themselves in that impossible situation where they had to put up with what we will politely call "the Other". That infernal other, who does not understand a bit of how one operates, or worse, who understands everything when one does not understand anything anymore, with their irritating impatience and their slight condescension, which keeps one awake at night, which makes one feel sorry not to have become an architect, a certifier, or better yet, a Product Owner.
 
@@ -76,8 +78,10 @@ Ah, I know.
 
 _(Then JONATHAN codes something furiously. Several repetitions of the same scene. Back to the green bar.)_
 
+`"12" -> ["12", "21"]`
+
 **EMMANUEL**  
-Generally speaking, the red bar is your friend.  Of course, don't fall for the distasteful technique consisting in breaking something on purpose.  No.  Be more subtle.  Write a large test.  _(JONATHAN writes a large test.)_  Refactor on the red bar.  _(During the following, JONATHAN illustrates what EMMANUEL says.)_  Specifically - fix parts of the code that have nothing to do with it.  On the red bar.  Aesthetic considerations.  On the red bar.  Misspellings.  On the red bar.  Curly brackets at end of line.  On the red bar.
+Generally speaking, the red bar is your friend.  Of course, don't fall for the distasteful technique consisting in breaking something on purpose.  No.  Be more subtle.  Write a large test.  _(JONATHAN writes a large test.)_ `(Possibly : "123" -> ["123", "132", "213", "231", "312", "321"])`  Refactor on the red bar.  _(During the following, JONATHAN illustrates what EMMANUEL says: possibly dis/align texts; rename; change font)_  Specifically - fix parts of the code that have nothing to do with it.  On the red bar.  Aesthetic considerations.  On the red bar.  Misspellings.  On the red bar.  Curly brackets at end of line.  On the red bar.
 
 **JONATHAN**  
 Let me add a couple first.
@@ -95,17 +99,19 @@ _(Demonstration. EMMANUEL does not break.)_
 **JONATHAN** _(carrying on)_  
 If they do not yield, now would probably be a good time to start, always so subtly, slipping a few errors here and there in your navigating.
 
-_(Demonstration. Then, to EMMANUEL:)_
+_(Demonstration.  For instance, with vim: %s/r/я/g and %s/e/э/g … Then, to EMMANUEL:)_
 
 **JONATHAN**  
 Fuck, you're seriously too slow.
 
-_(JONATHAN takes back the keyboard.)_
+_(JONATHAN takes back the keyboard. A possible vim command to get back to normal: ggVG!tr яэ re )_
 
 **EMMANUEL**  
 Or - here is a very efficient alternative to "let me tell you what to type": "let me tell you what you've just typed."
 
 _(Demonstration.)_
+
+`("abcd" -> ["abcd, "abdc", "acbd", "acdb", etc.])`
 
 **EMMANUEL** _(pursuing)_  
 Another dreadful technique consists in signaling every typo, right when they're written.  For sure, your pair will lose the thread of what they're typing, which will indicate when to get back to the sighing strategy.
@@ -116,6 +122,8 @@ _(Demonstration)_
 It will then probably be the time to grab back – majestically – the keyboard from their hands.  You'll have gained the initiative back, and you'll be able to code again in silence, on the red bar.  Don't forget the basics: mark your territory, erase what your pair has written.
 
 _(EMMANUEL takes back the keyboard.)_
+
+`(Now would be a good moment to erase the "abcd" test case.)`
 
 **JONATHAN**  
 At this point, you should have gotten rid of all the coding killjoys, the test-inhibited, the sticky morons, the agile smurfs, and all those roughly normal idiots.
